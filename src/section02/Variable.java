@@ -18,7 +18,7 @@ package section02;
  * 
  */
 public class Variable {
-    public staitc void main(String[] args) {
+    public static void main(String[] args) {
     	// 정수형 변수 선언하고 값 대입하기
     	int numInt = 10;
     	
