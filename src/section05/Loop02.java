@@ -1,4 +1,4 @@
-package setion05;
+package section05;
 /*
  * 2. do ~ while  문
  * while 문과 비슷하지만, 최소 한번 실행된다.

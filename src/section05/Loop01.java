@@ -1,4 +1,4 @@
-package setion05;
+package section05;
 /*
  * 반복문
  *  특정한 부분의 코드가 반복적으로 수행될 수 있도록 하는 명령어

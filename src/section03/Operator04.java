@@ -29,6 +29,5 @@ public class Operator04 {
 		result = !(true && true && true) || false;
 		System.out.println(result);
 		
-		
 	}
 }

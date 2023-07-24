@@ -1,4 +1,4 @@
-package setion05;
+package section05;
 /*
  * 3. for 문
  * 초기식, 조건식, 증감식을 이용하여 반복적으로 실행하는 명령어

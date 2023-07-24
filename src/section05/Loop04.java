@@ -1,4 +1,4 @@
-package setion05;
+package section05;
 /*
  * 중접 for문
  * for문 안에 for문
